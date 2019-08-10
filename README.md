@@ -35,8 +35,8 @@ Follow the instructions below to get our project running on your local machine.
 
 ## Authors
 
-* **Vamsi Krishna Reddy Satti** - [vamsi3](https://github.com/vamsi3)
-* Vighnesh Reddy Konda - [scopegeneral](https://github.com/scopegeneral)
+* Vamsi Krishna Reddy Satti - [vamsi3](https://github.com/vamsi3)
+* **Vighnesh Reddy Konda** - [scopegeneral](https://github.com/scopegeneral)
 * Suraj Soni
 
 ## Acknowledgements
